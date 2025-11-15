@@ -1,0 +1,25 @@
+{
+  "material-icon-theme.files.associations": {
+    "*.repository.ts": "Replit",
+    "*.schema.ts": "database",
+    "*.interface.ts": "diff",
+    "*.repository.impl.ts": "deepsource",
+    "*.mapper.ts": "spwn",
+    "*.entity.ts": "bbx",
+    "*.orm-entity.ts": "database",
+    "*.seeder.ts": "minecraft",
+    "*.dto.ts": "conduct",
+    "main.ts": "minecraft",
+    "*.util.ts": "otne",
+    "*.usecase.ts": "3d"
+  },
+  "material-icon-theme.folders.associations": {
+    "dto": "mjml",
+    "application": "controller",
+    "domain": "class",
+    "infrastructure": "lib",
+    "queries": "desktop",
+    "entities": "database",
+    "strategies": "class",
+  },
+}
